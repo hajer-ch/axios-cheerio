@@ -1,0 +1,142 @@
+/* css */
+html,
+body {
+    height: 100%;
+    font-family: 'Times New Roman', sans-serif;
+    font-weight: 400;
+    background: #F6F8FA;
+}
+
+.container {
+    width: 650px;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto
+}
+
+
+p {
+    margin: 0 0 15px;
+}
+
+h1,
+h2,
+h3 {
+    margin: 0 0 10px;
+    font-weight: 700;
+}
+
+.header-top-area {
+    background: #19223A;
+    left: 200px;
+    right: 0;
+    top: 0;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header-top-menu .navbar-nav>li>a {
+    padding: 20px 20px;
+    color: #FBB03B;
+    font-size: 16px;
+}
+
+.header-top-menu .navbar-nav>li>a:hover {
+    background-color: #19223A;
+}
+
+.test-inner {
+    background: #fff;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.drone {
+    width: 1200px;
+    height: 300px;
+    padding: 20px;
+
+}
+
+.test-title h2 {
+    font-size: 18px;
+    color: #303030;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.test-alaltic {
+    margin-right: 10px;
+}
+
+.test-des p {
+    margin: 2px 0px;
+    padding-top: 20px;
+    font-size: 14px;
+    color: #303030;
+}
+
+.tab-content-details h2 {
+    font-size: 20px;
+    color: #303030;
+}
+
+.tab-content-details {
+    text-align: center;
+    background: #fff;
+    padding: 20px 100px;
+}
+
+.tab-content-details p {
+    font-size: 14px;
+    color: #303030;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+
+
+
+.footer-copyright-area {
+    background: #19223A;
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.footer-info p {
+    margin: 0px;
+    font-size: 13px;
+    color: #FBB03B;
+    font-style: initial;
+}
+
+.footer-info a {
+    color: #FBB03B;
+    font-family: cursive;
+    font-size: large;
+
+}
+.search-bar{
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+}
+.btn {
+    width: 100px;
+    height: 30px;
+    color: #FBB03B;
+    background-color: #19223A;
+    display: inline-block;
+   
+}
+
+.search {
+   color: #FBB03B;
+   margin: 10px;
+   padding: 10px;
+   display: inline-block;
+}
