@@ -26,6 +26,7 @@
     "express": "^4.17.3",
     "form-group": "^3.0.8",
     "nodemon": "^2.0.15",
+    "puppeteer": "^13.5.2",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
